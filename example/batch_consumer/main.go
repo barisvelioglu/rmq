@@ -7,7 +7,7 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/adjust/rmq/v5"
+	"github.com/barisvelioglu/rmq/v6"
 )
 
 const (
