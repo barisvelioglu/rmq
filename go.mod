@@ -3,7 +3,6 @@ module github.com/barisvelioglu/rmq/v6
 go 1.13
 
 require (
-	github.com/go-redis/redis/v8 v8.3.2
 	github.com/go-redis/redis/v9 v9.0.0-rc.2
 	github.com/kr/pretty v0.1.0 // indirect
 	github.com/stretchr/testify v1.8.1
