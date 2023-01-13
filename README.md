@@ -29,7 +29,7 @@ Let's take a look at how to use rmq.
 Of course you need to import rmq wherever you want to use it.
 
 ```go
-import "github.com/barisvelioglu/rmq/v6"
+import "github.com/barisvelioglu/rmq/v7"
 ```
 
 ### Connection
